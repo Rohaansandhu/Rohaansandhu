@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Rohaan
 
-I'm a Computer Science student at UC San Diego with a strong focus on backend and full-stack development. I enjoy exploring new tools and technologies to build scalable, user-focused software.
+Hi, I'm a Computer Science student at UC San Diego driven to create software that makes the world a better place. 
 
 ### 👷 Current Work 
 ----------------------------
-I'm building a data pipeline that processes 10,000+ congressional roll call votes and bills, using LLMs to classify bill summaries with partisan and impact scores to create political stance profiles of US Congress members. With this project, I'm hoping to make Congress more transparent and help voters understand the policy positions of their current representatives.
+I'm building a data pipeline that analyzes thousands of Congressional roll call votes to create political stance profiles of US Congress. With LLM-powered analysis on each bill's summary, I'm extracting the relevant political categories and then assigning appropriate partisan and impact scores to then be factored into each member's individual ideology calculation. With this project, I'm hoping to make Congress more transparent and help voters understand the policy positions of their current representatives. A website, made with MERN, to display the initial results will be up soon!
 
 <!--
 I'm also developing a local-first mobile application with Flutter that syncs workout data across devices using Supabase authentication and cloud storage while maintaining offline functionality through SQLite. So far, it’s been a great way to strengthen my backend architecture skills while improving my UI/UX design and frontend workflow.
@@ -12,8 +12,8 @@ I'm also developing a local-first mobile application with Flutter that syncs wor
 
 ### 💻 Previous Experience
 ----------------------------
-Previously, I held an internship at GEI Consultants Inc. where I contributed to the Corps Water Management System (CWMS), a mission-critical platform used by the U.S. Army
-Corps of Engineers to manage water resources. This project strengthened my skills in Java, SQL, and API development.
+Previously, I interned at GEI Consultants Inc. where I contributed to the Corps Water Management System (CWMS), an automated information system used by the U.S. Army
+Corps of Engineers to better manage water resources. I worked closely with the CWMS Data API, CWMS Database, and the CWMS Visual Utility Engine. This project strengthened my skills in Java, SQL, and API development.
 
 ### 🤖 Robotics
 ----------------------------
