@@ -6,7 +6,7 @@ Hi, I'm a Computer Science student at UC San Diego driven to create software tha
 ----------------------------
 I'm building a data pipeline that analyzes thousands of Congressional roll call votes to create political stance profiles of US Congress. With LLM-powered analysis on each bill's summary, I'm extracting the relevant political categories and then assigning appropriate partisan and impact scores to then be factored into each member's individual ideology calculation. With this project, I'm hoping to make Congress more transparent and help voters understand the policy positions of their current representatives. 
 
-A website with initial results can be found here: [Political Stance Tracker Website](https://political-stance-website-frontend.vercel.app/)
+A website with initial results can be found here: [Political Stance Tracker Website](https://uspolitrack.org)
 
 <!--
 I'm also developing a local-first mobile application with Flutter that syncs workout data across devices using Supabase authentication and cloud storage while maintaining offline functionality through SQLite. So far, it’s been a great way to strengthen my backend architecture skills while improving my UI/UX design and frontend workflow.
