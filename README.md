@@ -4,13 +4,12 @@ Hi, I'm a Computer Science student at UC San Diego driven to create software tha
 
 ### 👷 Current Work 
 ----------------------------
-I'm building a data pipeline that analyzes thousands of Congressional roll call votes to create political stance profiles of US Congress. With LLM-powered analysis on each bill's summary, I'm extracting the relevant political categories and then assigning appropriate partisan and impact scores to then be factored into each member's individual ideology calculation. With this project, I'm hoping to make Congress more transparent and help voters understand the policy positions of their current representatives. 
-
+I'm building a data pipeline that analyzes thousands of Congressional roll call votes to create political stance profiles of US Congress. 
 A website with initial results can be found here: [Political Stance Tracker Website](https://uspolitrack.org)
 
-<!--
-I'm also developing a local-first mobile application with Flutter that syncs workout data across devices using Supabase authentication and cloud storage while maintaining offline functionality through SQLite. So far, it’s been a great way to strengthen my backend architecture skills while improving my UI/UX design and frontend workflow.
--->
+I'm a developer for Triton Software Engineering at UCSD, where I get to help develop websites for non-profits. Currently, I have been working on an attendance tracking website for Meemli.
+
+Also, I will be working at Rhombus Systems as a Software Engineering Intern this Summer.
 
 ### 💻 Previous Experience
 ----------------------------
