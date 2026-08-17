@@ -7,14 +7,13 @@ Hi, I'm a Computer Science student at UC San Diego driven to create software tha
 I'm building a data pipeline that analyzes thousands of Congressional roll call votes to create political stance profiles of US Congress. 
 A website with initial results can be found here: [Political Stance Tracker Website](https://uspolitrack.org)
 
-I'm a developer for Triton Software Engineering at UCSD, where I get to help develop websites for non-profits. Currently, I have been working on an attendance tracking website for Meemli.
-
-Also, I will be working at Rhombus Systems as a Software Engineering Intern this Summer.
+Also, I'm an Engineering Manager for Triton Software Engineering at UCSD, where I get to help develop solutions for non-profits. Previously as a Developer, I helped build an attendance tracking website for [Meemli](https://www.meemli.org/).
 
 ### 💻 Previous Experience
 ----------------------------
-Previously, I interned at GEI Consultants Inc. where I contributed to the Corps Water Management System (CWMS), an automated information system used by the U.S. Army
-Corps of Engineers to better manage water resources. I worked closely with the CWMS Data API, CWMS Database, and the CWMS Visual Utility Engine. This project strengthened my skills in Java, SQL, and API development.
+This summer I interned at [Rhombus Systems](https://www.rhombus.com/), where I designed a new day/night detection algorithm from image analysis to be run directly on the camera's firmware. This software is being used on an upcoming camera which doesn't have a hardware light sensor. Also, I developed a portable USB flasher on an x86 SBC to help flash cameras and monitor UART logs remotely.
+
+Previously, I interned at [GEI Consultants](https://www.geiconsultants.com/), where I contributed to the Corps Water Management System (CWMS), an automated information system used by the U.S. Army Corps of Engineers to better manage water resources. I worked closely with the CWMS Data API, CWMS Database, and the CWMS Visual Utility Engine. 
 
 ### 🤖 Robotics
 ----------------------------
